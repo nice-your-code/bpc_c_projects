@@ -1,0 +1,5 @@
+Пользователь: http://informatics.mccme.ru/user/view.php?id=361562&course=1
+Посылки пользователя: http://informatics.mccme.ru/submits/view.php?user_id=361562#1	
+Задача 1 (dz 1): http://informatics.mccme.ru/moodle/mod/statements/view3.php?chapterid=3&run_id=44r86469#1
+Задача 2 (dz 2): http://informatics.mccme.ru/moodle/mod/statements/view3.php?chapterid=27&run_id=36r14736#1
+Задача 3 (dz 3): http://informatics.mccme.ru/moodle/mod/statements/view3.php?chapterid=207&run_id=29r95910#1
